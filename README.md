@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Xenate/Xenate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 ### - 🔭 I’m currently working on an online historical art market tailored for the wealthy. The purpose is the help the wealthy evade taxes while benefitting artists, museums, and abortion rights (it will be a non-profit).
